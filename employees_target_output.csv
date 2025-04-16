@@ -1,0 +1,31 @@
+first_name,last_name,email,department,location,job_title,salary,start_date,experience_years,tenure_band
+Ian,Young,ian.young@example.com,ENGINEERING,Dublin,Consultant,80642.73,2015-05-16,9,5-10 yrs
+Charlie,Lewis,charlie.lewis@testmail.com,MARKETING,New York,Manager,77399.65,2019-10-20,5,2-5 yrs
+Charlie,Johnson,charlie.johnson@testmail.com,HR,Berlin,Engineer,103768.63,2016-10-10,8,5-10 yrs
+George,Young,george.young@example.com,FINANCE,New York,Analyst,114791.17,2019-03-05,6,5-10 yrs
+Charlie,Young,charlie.young@example.com,OPERATIONS,Berlin,Coordinator,68565.81,2015-09-07,9,5-10 yrs
+Charlie,Brown,charlie.brown@example.com,ENGINEERING,New York,Coordinator,46165.75,2019-12-18,5,2-5 yrs
+George,Lewis,george.lewis@demo.org,MARKETING,Toronto,Analyst,59601.58,2018-03-15,7,5-10 yrs
+Charlie,Brown,charlie.brown@testmail.com,ENGINEERING,Toronto,Analyst,71926.36,2018-08-30,6,5-10 yrs
+Ian,Brown,ian.brown@example.com,FINANCE,Dublin,Engineer,108172.37,2015-05-25,9,5-10 yrs
+Alice,Walker,alice.walker@example.com,FINANCE,Berlin,Manager,79838.88,2021-12-05,3,2-5 yrs
+Ian,Smith,ian.smith@example.com,HR,London,Manager,100429.35,2018-10-15,6,5-10 yrs
+Jane,Clark,jane.clark@testmail.com,HR,London,Coordinator,99198.56,2020-08-12,4,2-5 yrs
+Charlie,Miller,charlie.miller@example.com,OPERATIONS,Dublin,Coordinator,47022.3,2017-02-24,8,5-10 yrs
+Fiona,Brown,fiona.brown@demo.org,MARKETING,New York,Consultant,60987.41,2022-01-18,3,2-5 yrs
+Bob,Clark,bob.clark@example.com,HR,New York,Analyst,50612.26,2020-11-18,4,2-5 yrs
+Alice,Lee,alice.lee@testmail.com,HR,Berlin,Coordinator,74012.49,2018-01-01,7,5-10 yrs
+Charlie,Clark,charlie.clark@demo.org,OPERATIONS,Toronto,Engineer,47260.53,2016-12-10,8,5-10 yrs
+Alice,Johnson,alice.johnson@example.com,MARKETING,London,Manager,113542.2,2022-01-07,3,2-5 yrs
+Ethan,Smith,ethan.smith@testmail.com,HR,New York,Manager,85121.91,2017-11-14,7,5-10 yrs
+Bob,Brown,bob.brown@testmail.com,FINANCE,Toronto,Analyst,116220.09,2016-08-25,8,5-10 yrs
+Alice,Walker,alice.walker@example.com,MARKETING,Berlin,Manager,59927.43,2015-07-28,9,5-10 yrs
+Charlie,Lee,charlie.lee@testmail.com,MARKETING,New York,Coordinator,98770.24,2022-04-26,2,<2 yrs
+Helen,Young,helen.young@demo.org,HR,Berlin,Consultant,58528.19,2019-05-20,5,2-5 yrs
+Helen,Young,helen.young@demo.org,MARKETING,Toronto,Manager,68810.63,2020-07-31,4,2-5 yrs
+Ethan,Lewis,ethan.lewis@testmail.com,MARKETING,New York,Analyst,59394.8,2019-10-09,5,2-5 yrs
+Fiona,Walker,fiona.walker@example.com,OPERATIONS,Dublin,Engineer,84578.66,2019-07-25,5,2-5 yrs
+Diana,Walker,diana.walker@testmail.com,HR,London,Manager,57872.68,2022-03-17,3,2-5 yrs
+Diana,Lee,diana.lee@example.com,FINANCE,Berlin,Coordinator,77347.99,2018-12-29,6,5-10 yrs
+Bob,Lewis,bob.lewis@testmail.com,FINANCE,London,Manager,62074.16,2019-12-25,5,2-5 yrs
+Fiona,Miller,fiona.miller@testmail.com,HR,London,Engineer,103695.84,2021-01-20,4,2-5 yrs
